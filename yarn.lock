@@ -5936,7 +5936,7 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.5, postcss@^7.0.7:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-prerender-spa-plugin@^3.2.1:
+prerender-spa-plugin@^3.4.0:
   version "3.4.0"
   resolved "https://registry.yarnpkg.com/prerender-spa-plugin/-/prerender-spa-plugin-3.4.0.tgz#332f55e68e1bba68bcf176d8c8dfc8380c5dee8a"
   integrity sha512-4Gtu7XIz5p0VBi1527c/ogu0NNcM5kJPG9q3F26SioeeURVbIJ11B6fuK8pxTmlPqffKPR/2TRRf4o020r4Fqw==
@@ -7544,13 +7544,6 @@ vm-browserify@0.0.4:
   integrity sha1-XX6kW7755Kb/ZflUOOCofDV9WnM=
   dependencies:
     indexof "0.0.1"
-
-vue-cli-plugin-prerender-spa@^1.1.3:
-  version "1.1.3"
-  resolved "https://registry.yarnpkg.com/vue-cli-plugin-prerender-spa/-/vue-cli-plugin-prerender-spa-1.1.3.tgz#9be644d1ae65f8721b733bdb9084b37632cb00e2"
-  integrity sha512-rPCTg2cY6uSAe3qw27Zvxe2CuD5UiV27Ht11Kxv2E5IPt8ycNMHZw9V8MOlcKP4ZTpL+ew63MW3PmQkjvpQDgw==
-  dependencies:
-    prerender-spa-plugin "^3.2.1"
 
 vue-hot-reload-api@^2.3.0:
   version "2.3.1"
